@@ -12,7 +12,7 @@ All other libraries used here are already available in python by default
 3. Changes these 3 fields in the code <br>
     <b>sender_email = "your@gmail.com"</b> <br>
     <b>receiver_email = "receiver_email@gmail.com"</b><br>
-    <b>password = 'password@123</b><br>
+    <b>password = 'password@123'</b><br>
 4. open cmd -> go the location where files is saved
 5. <i> python Vaccine-Notifier.py
   6. <b> enter your post code </b><br>
